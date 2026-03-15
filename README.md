@@ -147,7 +147,7 @@ frontend/
 
 ## Documentation
 
-**[Rapport de projet (PDF)](docs/rapport-projet.pdf)** *(si disponible)*
+**[Rapport de projet (PDF)](docs/rapport-projet.pdf)**
 
 *Ce projet illustre une application full-stack MERN (MongoDB, Express, React, Node.js) complète avec communication temps réel.*
 
