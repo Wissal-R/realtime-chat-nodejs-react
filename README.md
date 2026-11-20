@@ -2,7 +2,7 @@
 
 > **Projet académique** - Module Technologies JS et Développement Mobile  
 > ENSA Khouribga | 2025-2026  
-> **Équipe de 4 personnes** - **Projet réalisé principalement par 1 membre**
+> **Équipe de 4 personnes**
 
 ---
 
